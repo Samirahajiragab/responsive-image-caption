@@ -57,7 +57,7 @@ p {
 
   html {
     line-height: 1.4;
-    font-size: 1rem;
+    font-size: 1em;
   }
 
   body {
@@ -81,7 +81,7 @@ p {
 
   html {
     line-height: 1.5;
-    font-size: 1.6rem;
+    font-size: 2em;
   }
 
   body {
@@ -105,7 +105,7 @@ p {
 @media only screen and (min-width: 90em) {
 
   html {
-    font-size: 2rem;
+    font-size: 3em;
   }
 
   body {
